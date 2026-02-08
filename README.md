@@ -113,6 +113,3 @@ BSc in Applied Data Science Communication
 
 ---
 
-## Acknowledgements
-
-This project was successfully completed through effective collaboration and shared effort. Special thanks to all contributors for their support in data preparation, SQL development, and Power BI visualization.
